@@ -1,5 +1,5 @@
 # Predictions-for-Cab-Booking-Application
-# Brief introduction to what this project tries to do
+# Brief introduction
 
 Objective of this project was to combine historical usage pattern along with the open data sources like weather data to forecast cab booking demand in a city
 
@@ -10,7 +10,7 @@ Linear regression, Ridge regression, Lasso regression, RandomForest regressor, A
 
 Pandas, Matplotlib and Scikit-Learn were used.
 
-# Details about this project
+# Details about the project
 
 BACKGROUND:-
 
