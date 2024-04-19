@@ -1,4 +1,3 @@
-# Predictions-for-Cab-Booking-Application
 # Brief introduction
 
 Objective of this project was to combine historical usage pattern along with the open data sources like weather data to forecast cab booking demand in a city
